@@ -1,0 +1,28 @@
+
+@font-face {font-family: "i-icon";
+  src: url('iconfont.ttf?t=1464927413')
+}
+
+.i-icon {
+  font-family:"i-icon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.i-icon-search:before { content: "\e604"; }
+.i-icon-more:before { content: "\e601"; }
+.i-icon-back:before { content: "\e600"; }
+.i-icon-field-error:before { content: "\e605"; }
+.i-icon-field-warning:before { content: "\e608"; }
+.i-icon-success:before { content: "\e602"; }
+.i-icon-field-success:before { content: "\e609"; }
+
+.i-icon-test:before {
+  display: inline-block;
+  content: '';
+  width: 16px;
+  height: 16px;
+  background-color: #a8a8a8;
+}

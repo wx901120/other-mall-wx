@@ -1,0 +1,26 @@
+@import 'src/components/assets/style/mixin.scss';
+
+/* Button */
+$--button-height: rem(70) !default;
+$--button-font-weight: normal !default;
+$--button-border-radius: rem(14) !default;
+$--button-font-size: rem(36) !default;
+$--button-color: #ffffff !default;
+
+$--button-primary-fill: #dec07b !default;
+
+/* Cell */
+$--cell-min-height: rem(100) !default;
+$--cell-title-width: rem(118) !default;
+$--cell-title-font-size: rem(28) !default;
+$--cell-title-color: #262626 !default;
+$--cell-value-font-size: rem(28) !default;
+$--cell-value-color: #999999 !default;
+
+/* Field */
+$--field-title-width: rem(118) !default;
+
+/* MessageBox */
+$--messagebox-header-background-color: #dec07b !default;
+$--messagebox-comfirm-btn-background-color: #dec07b !default;
+

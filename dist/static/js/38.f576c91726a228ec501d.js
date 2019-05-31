@@ -1,0 +1,2 @@
+webpackJsonp([38],{GivT:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("bpA2"),l=n("VU/8"),u=l(null,r.a,!1,null,null,null);t.default=u.exports},bpA2:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("TheHeader",{attrs:{title:"自助积分指南"}})},l=[],u={render:r,staticRenderFns:l};t.a=u}});
+//# sourceMappingURL=38.f576c91726a228ec501d.js.map
