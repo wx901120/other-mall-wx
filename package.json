@@ -18,7 +18,7 @@
     "lodash": "^4.17.4",
     "mint-ui": "^2.2.9",
     "moment": "^2.19.1",
-    "swiper": "^4.0.7",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-qriously": "^1.1.1",
     "vue-router": "^3.0.1",
